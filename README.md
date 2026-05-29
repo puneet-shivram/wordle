@@ -2,6 +2,12 @@
 
 A customizable Wordle clone built with React, TypeScript, and Material UI.
 
+## Live demo
+
+**[Play the game →](https://puneet-shivram.github.io/wordle/)**
+
+Hosted free on [GitHub Pages](https://pages.github.com/).
+
 ## Features
 
 - Configurable **word length** (3–10) and **max attempts** (4–12)
